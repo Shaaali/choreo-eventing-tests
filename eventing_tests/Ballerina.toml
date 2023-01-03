@@ -1,0 +1,8 @@
+[package]
+org = "shalitha"
+name = "eventing_tests"
+version = "0.1.0"
+distribution = "2201.2.3"
+
+[build-options]
+observabilityIncluded = true
